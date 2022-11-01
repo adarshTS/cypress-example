@@ -1,4 +1,4 @@
-# cypress-example
+# BrowserStack-Cypress Integration
 
 This example is about integrating cypress v10 test suite with BrowserStack.
 
